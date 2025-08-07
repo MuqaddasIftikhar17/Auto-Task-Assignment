@@ -47,6 +47,6 @@ An AI-powered task assignment system that automates task allocation using Natura
 ---
 
 ## 📷 Screenshots
-![Task Assignment UI](screenshot1.png)
+![Task Assignment UI](screenshot(113).png)
 
 
